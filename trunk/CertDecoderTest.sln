@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CertDecoderTest", "CertDecoderTest\CertDecoderTest.vcxproj", "{68C523E8-A702-4C97-BB02-5999BC7EC158}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSPCertDecoder", "CSPCertDecoder\CSPCertDecoder.vcxproj", "{2915B34C-F733-4D81-9334-17373EC6338E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenSSLCertDecoder", "OpenSSLCertDecoder\OpenSSLCertDecoder.vcxproj", "{959C55F1-5253-49E1-B3C8-C2B8D88F957A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68C523E8-A702-4C97-BB02-5999BC7EC158}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68C523E8-A702-4C97-BB02-5999BC7EC158}.Debug|Win32.Build.0 = Debug|Win32
+		{68C523E8-A702-4C97-BB02-5999BC7EC158}.Release|Win32.ActiveCfg = Release|Win32
+		{68C523E8-A702-4C97-BB02-5999BC7EC158}.Release|Win32.Build.0 = Release|Win32
+		{2915B34C-F733-4D81-9334-17373EC6338E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2915B34C-F733-4D81-9334-17373EC6338E}.Debug|Win32.Build.0 = Debug|Win32
+		{2915B34C-F733-4D81-9334-17373EC6338E}.Release|Win32.ActiveCfg = Release|Win32
+		{2915B34C-F733-4D81-9334-17373EC6338E}.Release|Win32.Build.0 = Release|Win32
+		{959C55F1-5253-49E1-B3C8-C2B8D88F957A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{959C55F1-5253-49E1-B3C8-C2B8D88F957A}.Debug|Win32.Build.0 = Debug|Win32
+		{959C55F1-5253-49E1-B3C8-C2B8D88F957A}.Release|Win32.ActiveCfg = Release|Win32
+		{959C55F1-5253-49E1-B3C8-C2B8D88F957A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
